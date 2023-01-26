@@ -1,7 +1,5 @@
-👋 Hi! My name is Joe Barbere
+Hi! My name is Joe Barbere, and I am a Principal Engineer at @BrightMLS
 
-:rainbow: I’m interested in software engineering, systems design, ham radio, and amateur radio astronomy
+My current interests include Mastodon, React, TypeScript, Rust, react-three-fiber, WebAssembly, Docker, and countless other diversions :)
 
-🌱 I’m currently learning about NASA's Radio Jove project
-
-:artificial_satellite: I’m looking to collaborate on amateur radio astronomy projects
+You can find me on Mastodon @joebarbere@jawns.club
