@@ -1,3 +1,5 @@
-Hi! My name is Joe Barbere.
+Hi! My name is Joe Barbere, a seasoned developer, engineer, and IT professional.
 
-I'm interested in TypeScript, C#, WebAssembly, and AI. 🤖
+Lately my interests are in bug bountys, infosec, and C/C++.
+
+My day job has me working with Angular/C#/AWS/Terraform.
