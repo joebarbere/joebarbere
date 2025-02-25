@@ -1,9 +1,9 @@
 # Hi!👋🏻
 My name is Joe Barbere, husband to a loving wife, a passionate principal software engineer, and avid runner 🧔🏻‍♂️
 
-As of late, my interests have centered around AMD ROCm/HIP, ZLUDA, CUDA/PTX, ONNX, DirectML, Olive, Python, PyTorch, and Monster Hunter Wilds 🏹
+As of late, my interests have centered around AMD ROCm/HIP, ZLUDA, CUDA/PTX, ONNX, DirectML, Olive, Python, PyTorch, and Deep Learning
 
-For work I find myself developing in C#, TypeScript, and Terraform; with the following frameworks and libraries: Angular, Electron.NET, Blazor, MudBlazor
+For work I'm currently developing in C#, TypeScript, and Terraform; with the following frameworks and libraries: Angular, Electron.NET, Blazor, MudBlazor
 
 ## 2025 Reading List 📚
 - [ ] AWS Certified Developer Associate Certification and Beyond
@@ -22,5 +22,11 @@ For work I find myself developing in C#, TypeScript, and Terraform; with the fol
 - [x] Gigabyte M34WQ 34" 3440x1440 144Hz Monitor
 - [ ] EasySMX X20 Multiplatform Gaming Controller
 
+## Games 🎮
+- [x] Monster Hunter Wilds 🏹 (PC)
+- [x] Baldur's Gate III (PS5)
+- [x] Diablo IV (PS5)
+- [x] The Legend of Zelda: Echoes of Wisdom (Switch OLED)
+
 > [!IMPORTANT]
-> I'm dual-booting Windows 11 and Ubuntu Desktop 24.04.2 LTS because ROCm PyTorch support is just not there yet for Windows. I'm hoping to help contribute to this space by benchmarking and otherwise attempting to test Windows PyTorch ROCm updates with my albeit limited knowledge (hoping to improve in this area soon 💪🏻)
+> ROCm PyTorch support is just not there yet for Windows. I'm hoping to help contribute to this space by benchmarking and otherwise attempting to test Windows PyTorch ROCm updates with my albeit limited knowledge (hoping to improve in this area soon 💪🏻)
