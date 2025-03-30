@@ -3,6 +3,8 @@ My name is Joe Barbere, a passionate software engineer, avid runner, and amateur
 
 As of late, my interests have centered around Python, PyTorch, ML/DL, AMD ROCm/HIP, Microsoft AI Stuff (ONNX, DirectML, Olive), ZLUDA, CUDA/PTX/SASS 😮‍💨
 
+I've been recently inspired by this Hackernews post on RDNA3 https://news.ycombinator.com/item?id=43469535
+
 > [!NOTE]
 > ROCm PyTorch support is not available yet for Windows 😭 I'm hoping to help contribute to this space 🥷🏻
 ## 2025 Reading List 📚
