@@ -1,4 +1,4 @@
-# Hi!👋🏻 My name is Joe Barbere.
+# Hi! My name is Joe Barbere. 🐬👊🏻
 
 ## Current interests include
 - [ ] Linux (Fedora 43, fish shell, Neovim)
