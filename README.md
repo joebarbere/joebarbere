@@ -1,7 +1,7 @@
 # Hi!👋🏻 My name is Joe Barbere.
 
 ## Current interests include
-- [ ] Linux (Fedora, fish shell, nvim)
+- [ ] Linux (Fedora 43, fish shell, Neovim)
 - [ ] Linux Kernel Development
 - [ ] AWS
 - [ ] AI
