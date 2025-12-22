@@ -6,6 +6,7 @@
 - [ ] Linux - Fedora 43, fish-shell, Neovim
 - [ ] Linux Kernel Development - mkosi, qemu/kvm, syzkaller, clangd
 - [ ] FPV Drone Racing
+- [ ] Chess
 - [ ] Ultrarunning
 
 ## 2026 Reading List
