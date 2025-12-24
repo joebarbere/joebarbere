@@ -7,7 +7,7 @@
 - [ ] Linux Kernel Development - mkosi, qemu/kvm, syzkaller, clangd
 - [ ] FPV Drone Racing
 - [ ] Chess
-- [ ] Ultrarunning
+- [ ] Ultra Running
 
 ## 2026 Reading List
 - [ ] AWS Certified Machine Learning
