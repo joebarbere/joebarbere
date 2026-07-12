@@ -30,21 +30,17 @@ hardware — every sponsorship goes to the buildout:
 
 **[GitHub Sponsors](https://github.com/sponsors/joebarbere)** · **[Ko-fi](https://ko-fi.com/joebarbere)**
 
-Current wishlist, roughly in order: Pi 5 active cooler → storage for IQ recordings →
+Current wishlist, roughly in order: RF test equipment → storage for IQ recordings →
 Discovery Drive rotator (automated pointing) → a second dish → a KrakenSDR for coherent
 interferometry.
 
 ## Current interests include
 
 - [ ] Claude Code and agentic engineering
-- [ ] Hydrogen-line radio astronomy & software-defined radio
-- [ ] Raspberry Pi field systems that survive a rooftop
-- [ ] Open, reproducible amateur science
+- [ ] Hydrogen-line radio astronomy
 
 ## 2026 Goals
 
 - [ ] First light: detect galactic hydrogen (21 cm) from the roof
-- [ ] Run the first end-to-end observing campaign (plan → observe → confirm → report) — jansky-observe v1.0.0
-- [ ] Publish the station build guide
 - [ ] AWS Certified AI Practioner
 - [ ] AWS Certified Machine Learning - Specialty
