@@ -1,5 +1,8 @@
 # Hi! My name is Joe Barbere. 🐬👊🏻
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/joebarbere?logo=githubsponsors)](https://github.com/sponsors/joebarbere)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-ff5f5f?logo=kofi&logoColor=white)](https://ko-fi.com/joebarbere)
+
 I'm building an **open-source radio telescope on a Philadelphia rooftop** — a 700 mm dish
 listening to the hydrogen line at 1420 MHz, with the software, the science, and the build
 guides all public.
@@ -30,9 +33,10 @@ hardware — every sponsorship goes to the buildout:
 
 **[GitHub Sponsors](https://github.com/sponsors/joebarbere)** · **[Ko-fi](https://ko-fi.com/joebarbere)**
 
-Current wishlist, roughly in order: Pi 5 active cooler → storage for IQ recordings →
-Discovery Drive rotator (automated pointing) → a second dish → a KrakenSDR for coherent
-interferometry.
+Current wishlist, roughly in order: storage for IQ recordings → rooftop networking (PoE
+switch + access point) → Discovery Drive rotator (automated pointing) → a second dish → a
+KrakenSDR for coherent interferometry. It's a general direction, not a promise — the
+roadmap changes as the station meets the real sky.
 
 ## Current interests include
 
