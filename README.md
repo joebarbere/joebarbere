@@ -37,7 +37,7 @@ hardware — every sponsorship goes to the buildout:
 
 **[GitHub Sponsors](https://github.com/sponsors/joebarbere)** · **[Ko-fi](https://ko-fi.com/joebarbere)**
 
-Current wishlist, roughly in order: storage for IQ recordings → rooftop networking (PoE
+Current wishlist, roughly in order: RF test equipment → storage for IQ recordings → rooftop networking (PoE
 switch + access point) → the Discovery Drive rotator (automated pointing — the software
 already ships, waiting on the hardware) → a second dish → a KrakenSDR for coherent
 interferometry. It's a general direction, not a promise — the roadmap changes as the station
