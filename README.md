@@ -12,6 +12,14 @@ guides all public.
 Named after [Karl Jansky](https://en.wikipedia.org/wiki/Karl_Guthe_Jansky), who discovered
 radio emission from the Milky Way with homemade equipment. Same spirit, smaller dish:
 
+- 📖 [**jansky**](https://github.com/joebarbere/jansky) — a hands-on radio astronomy
+  course in Python: executable notebooks from *"what is a radio wave from space?"* to
+  downloading real telescope data, plus the tested helper library the other repos build on.
+- 🔬 [**jansky-research**](https://github.com/joebarbere/jansky-research) — original
+  amateur research with honesty as the first rule: tested tools, real public data, an
+  adversarial science-review gate, and write-ups that report negatives plainly. The
+  station track is aiming at a 12-month hydrogen-line Doppler curve, drift-scans
+  validated against HI4PI, and a flux-calibrated quiet-Sun monitor.
 - 📡 [**jansky-observe**](https://github.com/joebarbere/jansky-observe) — the station
   software, now **feature-complete through every planned milestone**: an SDR capture daemon +
   live waterfall, a session wizard and observing ladder, an HI-line classifier, PDF
@@ -21,14 +29,6 @@ radio emission from the Milky Way with homemade equipment. Same spirit, smaller 
   (and now point) the telescope. Real release engineering too: every install is gated on a
   QEMU boot of genuine Raspberry Pi OS. **What's left is first light** — the software's ready,
   the roof isn't wired yet.
-- 📖 [**jansky**](https://github.com/joebarbere/jansky) — a hands-on radio astronomy
-  course in Python: executable notebooks from *"what is a radio wave from space?"* to
-  downloading real telescope data, plus the tested helper library the other repos build on.
-- 🔬 [**jansky-research**](https://github.com/joebarbere/jansky-research) — original
-  amateur research with honesty as the first rule: tested tools, real public data, an
-  adversarial science-review gate, and write-ups that report negatives plainly. The
-  station track is aiming at a 12-month hydrogen-line Doppler curve, drift-scans
-  validated against HI4PI, and a flux-calibrated quiet-Sun monitor.
 
 ## ☕ Support the station buildout
 
@@ -37,18 +37,20 @@ hardware — every sponsorship goes to the buildout:
 
 **[GitHub Sponsors](https://github.com/sponsors/joebarbere)** · **[Ko-fi](https://ko-fi.com/joebarbere)**
 
-Current wishlist, roughly in order: RF test equipment → storage for IQ recordings → rooftop networking (PoE
-switch + access point) → the Discovery Drive rotator (automated pointing — the software
-already ships, waiting on the hardware) → a second dish → a KrakenSDR for coherent
-interferometry. It's a general direction, not a promise — the roadmap changes as the station
-meets the real sky.
+Current wishlist, roughly in order:
+- RF test equipment
+- Storage for IQ recordings
+- Rooftop networking (PoE switch + access point)
+- Discovery Drive rotator (automated pointing, jansky-observe already supports it)
+- Second dish/feedhorn
+- KrakenSDR (for coherent interferometry)
 
 ## Current interests include
 
 - [ ] Claude Code and agentic engineering
 - [ ] Hydrogen-line radio astronomy & software-defined radio
 - [ ] Raspberry Pi field systems that survive a rooftop
-- [ ] Open, reproducible amateur science
+- [ ] Open reproducible amateur science
 
 ## 2026 Goals
 
