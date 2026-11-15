@@ -52,33 +52,15 @@ radio emission from the Milky Way with homemade equipment. Same spirit, smaller 
 - 🤖 [**jezero-lab**](https://github.com/joebarbere/jezero-lab) — a local reinforcement-learning lab: NASA-JPL's
   Open Source Rover in a simulated Jezero Crater (ROS 2, Gazebo, Podman).
 
-## ☕ Support the station buildout
-
-If any of this is useful or just fun to watch, you can help fund the next piece of
-hardware — every sponsorship goes to the buildout:
-
-**[GitHub Sponsors](https://github.com/sponsors/joebarbere)** · **[Ko-fi](https://ko-fi.com/joebarbere)**
-
-Current wishlist, roughly in order:
-- RF test equipment
-- Storage for IQ recordings
-- Rooftop networking (PoE switch + access point)
-- Discovery Drive rotator (automated pointing, jansky-observe already supports it)
-- Second dish/feedhorn
-- KrakenSDR (for coherent interferometry)
-
 ## Current interests include
 
 - [ ] Claude Code and agentic engineering
 - [ ] Deep learning and LLMs in JAX, on AMD GPUs
 - [ ] Hydrogen-line radio astronomy & software-defined radio
-- [ ] Raspberry Pi field systems that survive a rooftop
-- [ ] Open reproducible amateur science
 
 ## 2026 Goals
 
-- [ ] First light: detect galactic hydrogen (21 cm) from the roof
-- [ ] Run the first end-to-end observing campaign (plan → observe → confirm → report) — jansky-observe v1.0.0
-- [ ] Publish the station build guide
+- [ ] First light: detect galactic hydrogen (21 cm)
+- [ ] Learn JAX
 - [ ] AWS Certified AI Practioner
 - [ ] AWS Certified Machine Learning - Specialty
