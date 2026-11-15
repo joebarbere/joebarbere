@@ -29,6 +29,28 @@ radio emission from the Milky Way with homemade equipment. Same spirit, smaller 
   (and now point) the telescope. Real release engineering too: every install is gated on a
   QEMU boot of genuine Raspberry Pi OS. **What's left is first light** — the software's ready,
   the roof isn't wired yet.
+- 🛠️ [**jansky-forge**](https://github.com/joebarbere/jansky-forge) — design, build and characterize
+  radio-astronomy antennas, with a provenance-checked catalog of known telescope builds.
+- 📚 [**awesome-radio-astronomy**](https://github.com/joebarbere/awesome-radio-astronomy) — a curated list of
+  open data archives, surveys, software and learning resources, compiled along the way.
+
+## Other recent projects
+
+- 🧠 [**learn-jax**](https://github.com/joebarbere/learn-jax) — a hands-on course in deep learning, JAX and LLMs
+  on a consumer AMD GPU (RX 7600 XT, ROCm). 40 marimo notebooks, from arrays and autodiff to training a small
+  mixture-of-experts LLM, LoRA, local inference, profiling, sharding and running the same code on AWS, plus a
+  family tree of ~50 foundation models and the building blocks each one added.
+- 🐋 [**deepseek-v3-jax**](https://github.com/joebarbere/deepseek-v3-jax) — my replication of
+  [Vaibhaav Tiwari's](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) DeepSeek-V3 in 190 lines of pure JAX
+  (MLA, DeepSeekMoE, aux-loss-free balancing, multi-token prediction), trained on the same AMD GPU.
+- 💾 [**bayside**](https://github.com/joebarbere/bayside) — reverse engineering Tandy DeskMate 3.05 (1990) into
+  clean, compilable C: all 87 binaries disassembled and annotated, transpilation to C89 under way.
+- ☁️ [**aws-ai**](https://github.com/joebarbere/aws-ai) — Terraform and Python for the AWS AI services on the
+  AI Practitioner exam, with a Claude agent that writes the infrastructure.
+- ⚡ [**controls**](https://github.com/joebarbere/controls) — an electrician → controls-engineer simulation game
+  (Electron, Angular, Three.js).
+- 🤖 [**jezero-lab**](https://github.com/joebarbere/jezero-lab) — a local reinforcement-learning lab: NASA-JPL's
+  Open Source Rover in a simulated Jezero Crater (ROS 2, Gazebo, Podman).
 
 ## ☕ Support the station buildout
 
@@ -48,6 +70,7 @@ Current wishlist, roughly in order:
 ## Current interests include
 
 - [ ] Claude Code and agentic engineering
+- [ ] Deep learning and LLMs in JAX, on AMD GPUs
 - [ ] Hydrogen-line radio astronomy & software-defined radio
 - [ ] Raspberry Pi field systems that survive a rooftop
 - [ ] Open reproducible amateur science
